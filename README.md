@@ -1,3 +1,3 @@
 # devops-task
 
-CI/CD pipeline for flask app 
+CI/CD pipeline for flask application 
